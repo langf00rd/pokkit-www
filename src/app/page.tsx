@@ -5,7 +5,7 @@ export default function Home() {
    return (
       <main className="w-screen h-screen overflow-hidden px-10 select-none">
          <div className="z-20 relative w-full h-full flex items-center justify-center flex-col space-y-5">
-            <h1 className="text-3xl md:text-5xl max-w-md text-center">
+            <h1 className="text-3xl md:text-6xl max-w-xl text-center">
                get your finances together with
                <span className="gradient-text"> pokkit</span>
             </h1>
