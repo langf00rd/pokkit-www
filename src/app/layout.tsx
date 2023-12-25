@@ -17,7 +17,7 @@ export const metadata: Metadata = {
       siteName: "pokkit",
       images: [
          {
-            url: "https://res.cloudinary.com/f00rd/image/upload/v1703503753/pokkit/juyxogxmujcramnsa6yu.png",
+            url: "https://res.cloudinary.com/f00rd/image/upload/v1703504697/pokkit/xctatppuze9mrwlpt9tu.png",
          },
       ],
    },
